@@ -5,3 +5,4 @@
  - add [jekyll](https://jekyllrb.com/)
  - always improve!
  - ~~add a theme~~
+ - add about section
