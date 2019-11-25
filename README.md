@@ -4,7 +4,8 @@
 
 
 ## Todo List:
- - add [jekyll](https://jekyllrb.com/)
- - always improve!
- - ~~add a theme~~
- - add about section
+ - Add [jekyll](https://jekyllrb.com/)
+ - Always improve!
+ - ~~Add a theme~~
+ - Add about section
+ - Organize Github projects
