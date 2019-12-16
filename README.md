@@ -9,3 +9,4 @@
  - ~~Add a theme~~
  - Add about section
  - Organize Github projects
+ - Add CPF Generator
